@@ -1,0 +1,14 @@
+/Users/daniel/source/misc/AzureSignalR-samples/samples/ChatRoomLocal/bin/Debug/netcoreapp2.2/ChatRoomLocal.deps.json
+/Users/daniel/source/misc/AzureSignalR-samples/samples/ChatRoomLocal/bin/Debug/netcoreapp2.2/ChatRoomLocal.runtimeconfig.json
+/Users/daniel/source/misc/AzureSignalR-samples/samples/ChatRoomLocal/bin/Debug/netcoreapp2.2/ChatRoomLocal.runtimeconfig.dev.json
+/Users/daniel/source/misc/AzureSignalR-samples/samples/ChatRoomLocal/bin/Debug/netcoreapp2.2/ChatRoomLocal.dll
+/Users/daniel/source/misc/AzureSignalR-samples/samples/ChatRoomLocal/bin/Debug/netcoreapp2.2/ChatRoomLocal.pdb
+/Users/daniel/source/misc/AzureSignalR-samples/samples/ChatRoomLocal/obj/Debug/netcoreapp2.2/ChatRoomLocal.csprojAssemblyReference.cache
+/Users/daniel/source/misc/AzureSignalR-samples/samples/ChatRoomLocal/obj/Debug/netcoreapp2.2/ChatRoomLocal.csproj.CoreCompileInputs.cache
+/Users/daniel/source/misc/AzureSignalR-samples/samples/ChatRoomLocal/obj/Debug/netcoreapp2.2/ChatRoomLocal.RazorAssemblyInfo.cache
+/Users/daniel/source/misc/AzureSignalR-samples/samples/ChatRoomLocal/obj/Debug/netcoreapp2.2/ChatRoomLocal.RazorAssemblyInfo.cs
+/Users/daniel/source/misc/AzureSignalR-samples/samples/ChatRoomLocal/obj/Debug/netcoreapp2.2/ChatRoomLocal.AssemblyInfoInputs.cache
+/Users/daniel/source/misc/AzureSignalR-samples/samples/ChatRoomLocal/obj/Debug/netcoreapp2.2/ChatRoomLocal.AssemblyInfo.cs
+/Users/daniel/source/misc/AzureSignalR-samples/samples/ChatRoomLocal/obj/Debug/netcoreapp2.2/ChatRoomLocal.RazorTargetAssemblyInfo.cache
+/Users/daniel/source/misc/AzureSignalR-samples/samples/ChatRoomLocal/obj/Debug/netcoreapp2.2/ChatRoomLocal.dll
+/Users/daniel/source/misc/AzureSignalR-samples/samples/ChatRoomLocal/obj/Debug/netcoreapp2.2/ChatRoomLocal.pdb
